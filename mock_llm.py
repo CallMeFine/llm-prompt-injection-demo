@@ -30,6 +30,8 @@ numbers here as a measure of whether a DEFENSE closes a structural hole,
 not as a prediction of any real model's success rate.
 """
 
+from __future__ import annotations
+
 import base64
 import re
 import unicodedata

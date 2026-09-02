@@ -62,7 +62,7 @@ python harness.py --verbose    # per-attack breakdown
 python harness.py --decode-base64
 ```
 
-Python 3.10 or newer. Standard library only.
+Python 3.7 or newer. Standard library only.
 
 ## Results
 
